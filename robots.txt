@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Sitemap: https://inkviz96.github.io/webdevpro-landing/sitemap.xml
